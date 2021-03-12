@@ -1,1 +1,1 @@
-# doc
+https://doc.vnedubot.tk
